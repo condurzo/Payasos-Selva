@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="LaSelva30" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva29" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva28" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva27" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva26" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva25" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva24" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva23" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva22" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva21" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva20" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva19" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva18" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva17" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva16" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva15" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva14" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva13" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva12" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva11" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva10" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva09" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva08" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva07" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva06" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva05" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva04" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva03" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva02" size="60.000000 60.112995" />
+    <ImageTarget name="LaSelva01" size="60.000000 60.112995" />
+  </Tracking>
+</QCARConfig>

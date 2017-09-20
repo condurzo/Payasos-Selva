@@ -1,0 +1,1177 @@
+fileFormatVersion: 2
+guid: caba681c27cb2404ca8fd449b11d9fc1
+timeCreated: 1493296948
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: CLOWN
+    100002: Clown
+    100004: Clown Head
+    100006: Clown L Brow
+    100008: Clown L Calf
+    100010: Clown L Clavicle
+    100012: Clown L Eye
+    100014: Clown L Finger0
+    100016: Clown L Finger01
+    100018: Clown L Finger02
+    100020: Clown L Finger1
+    100022: Clown L Finger11
+    100024: Clown L Finger12
+    100026: Clown L Finger2
+    100028: Clown L Finger21
+    100030: Clown L Finger22
+    100032: Clown L Finger3
+    100034: Clown L Finger31
+    100036: Clown L Finger32
+    100038: Clown L Finger4
+    100040: Clown L Finger41
+    100042: Clown L Finger42
+    100044: Clown L Foot
+    100046: Clown L Forearm
+    100048: Clown L Hand
+    100050: Clown L Lid
+    100052: Clown L Mouth
+    100054: Clown L Thigh
+    100056: Clown L Toe0
+    100058: Clown L UpperArm
+    100060: Clown Mouth
+    100062: Clown Neck
+    100064: Clown Pelvis
+    100066: Clown R Brow
+    100068: Clown R Calf
+    100070: Clown R Clavicle
+    100072: Clown R Eye
+    100074: Clown R Finger0
+    100076: Clown R Finger01
+    100078: Clown R Finger02
+    100080: Clown R Finger1
+    100082: Clown R Finger11
+    100084: Clown R Finger12
+    100086: Clown R Finger2
+    100088: Clown R Finger21
+    100090: Clown R Finger22
+    100092: Clown R Finger3
+    100094: Clown R Finger31
+    100096: Clown R Finger32
+    100098: Clown R Finger4
+    100100: Clown R Finger41
+    100102: Clown R Finger42
+    100104: Clown R Foot
+    100106: Clown R Forearm
+    100108: Clown R Hand
+    100110: Clown R Lid
+    100112: Clown R Mouth
+    100114: Clown R Thigh
+    100116: Clown R Toe0
+    100118: Clown R UpperArm
+    100120: Clown Spine
+    100122: Clown Spine1
+    100124: ROOT
+    100126: //RootNode
+    400000: CLOWN
+    400002: Clown
+    400004: Clown Head
+    400006: Clown L Brow
+    400008: Clown L Calf
+    400010: Clown L Clavicle
+    400012: Clown L Eye
+    400014: Clown L Finger0
+    400016: Clown L Finger01
+    400018: Clown L Finger02
+    400020: Clown L Finger1
+    400022: Clown L Finger11
+    400024: Clown L Finger12
+    400026: Clown L Finger2
+    400028: Clown L Finger21
+    400030: Clown L Finger22
+    400032: Clown L Finger3
+    400034: Clown L Finger31
+    400036: Clown L Finger32
+    400038: Clown L Finger4
+    400040: Clown L Finger41
+    400042: Clown L Finger42
+    400044: Clown L Foot
+    400046: Clown L Forearm
+    400048: Clown L Hand
+    400050: Clown L Lid
+    400052: Clown L Mouth
+    400054: Clown L Thigh
+    400056: Clown L Toe0
+    400058: Clown L UpperArm
+    400060: Clown Mouth
+    400062: Clown Neck
+    400064: Clown Pelvis
+    400066: Clown R Brow
+    400068: Clown R Calf
+    400070: Clown R Clavicle
+    400072: Clown R Eye
+    400074: Clown R Finger0
+    400076: Clown R Finger01
+    400078: Clown R Finger02
+    400080: Clown R Finger1
+    400082: Clown R Finger11
+    400084: Clown R Finger12
+    400086: Clown R Finger2
+    400088: Clown R Finger21
+    400090: Clown R Finger22
+    400092: Clown R Finger3
+    400094: Clown R Finger31
+    400096: Clown R Finger32
+    400098: Clown R Finger4
+    400100: Clown R Finger41
+    400102: Clown R Finger42
+    400104: Clown R Foot
+    400106: Clown R Forearm
+    400108: Clown R Hand
+    400110: Clown R Lid
+    400112: Clown R Mouth
+    400114: Clown R Thigh
+    400116: Clown R Toe0
+    400118: Clown R UpperArm
+    400120: Clown Spine
+    400122: Clown Spine1
+    400124: ROOT
+    400126: //RootNode
+    4300000: CLOWN
+    7400000: run
+    9500000: //RootNode
+    13700000: CLOWN
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: ROOT
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CLOWN
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Clown
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown L Thigh
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown L Thigh/Clown L Calf
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown L Thigh/Clown L Calf/Clown L Foot
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown L Thigh/Clown L Calf/Clown L Foot/Clown
+          L Toe0
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown R Thigh
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown R Thigh/Clown R Calf
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown R Thigh/Clown R Calf/Clown R Foot
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown R Thigh/Clown R Calf/Clown R Foot/Clown
+          R Toe0
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown Head
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown Head/Clown
+          L Brow
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown Head/Clown
+          L Eye
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown Head/Clown
+          L Lid
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown Head/Clown
+          L Mouth
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown Head/Clown
+          Mouth
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown Head/Clown
+          R Brow
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown Head/Clown
+          R Eye
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown Head/Clown
+          R Lid
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown Head/Clown
+          R Mouth
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger0
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger0/Clown
+          L Finger01
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger0/Clown
+          L Finger01/Clown L Finger02
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger1
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger1/Clown
+          L Finger11
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger1/Clown
+          L Finger11/Clown L Finger12
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger2
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger2/Clown
+          L Finger21
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger2/Clown
+          L Finger21/Clown L Finger22
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger3
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger3/Clown
+          L Finger31
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger3/Clown
+          L Finger31/Clown L Finger32
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger4
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger4/Clown
+          L Finger41
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown L
+          Clavicle/Clown L UpperArm/Clown L Forearm/Clown L Hand/Clown L Finger4/Clown
+          L Finger41/Clown L Finger42
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger0
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger0/Clown
+          R Finger01
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger0/Clown
+          R Finger01/Clown R Finger02
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger1
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger1/Clown
+          R Finger11
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger1/Clown
+          R Finger11/Clown R Finger12
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger2
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger2/Clown
+          R Finger21
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger2/Clown
+          R Finger21/Clown R Finger22
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger3
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger3/Clown
+          R Finger31
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger3/Clown
+          R Finger31/Clown R Finger32
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger4
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger4/Clown
+          R Finger41
+        weight: 1
+      - path: ROOT/Clown/Clown Pelvis/Clown Spine/Clown Spine1/Clown Neck/Clown R
+          Clavicle/Clown R UpperArm/Clown R Forearm/Clown R Hand/Clown R Finger4/Clown
+          R Finger41/Clown R Finger42
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: Clown Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown L Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Clown R Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: CLOWN(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CLOWN
+      position: {x: -8.29992501e-08, y: 1.09236503, z: -.00854863599}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ROOT
+      position: {x: 0, y: 0, z: 1.90734859e-08}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown
+      position: {x: -0, y: .483875632, z: -.0249850862}
+      rotation: {x: -.500000358, y: .499999672, z: .499999672, w: .500000358}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown Pelvis
+      position: {x: 0, y: 0, z: .0160020888}
+      rotation: {x: .5, y: -.500000715, z: -.499999374, w: -.49999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown Spine
+      position: {x: -.121978298, y: -.00018482923, z: 1.6941587e-07}
+      rotation: {x: 2.07126163e-06, y: 7.15255794e-07, z: .000398173957, w: -.99999994}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Clown Spine1
+      position: {x: -.232149884, y: -.000184855453, z: -5.12713982e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown Neck
+      position: {x: -.209140703, y: .0281056762, z: 5.74010208e-08}
+      rotation: {x: -8.99002971e-16, y: 2.41735279e-07, z: -.0871557891, w: .99619472}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown Head
+      position: {x: -.066892013, y: -1.90734859e-08, z: 0}
+      rotation: {x: 8.94069601e-08, y: -4.17232457e-07, z: -.0875524804, w: -.996159911}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Clown Hair1
+      position: {x: -.433882117, y: .0613432787, z: 4.28428712e-06}
+      rotation: {x: .68301332, y: .183012038, z: -.683012366, w: .183012277}
+      scale: {x: 1.11445582, y: 1.11445582, z: 1.11445582}
+      transformModified: 1
+    - name: Clown Hat1
+      position: {x: -.498683453, y: -.0410318077, z: -.000162963857}
+      rotation: {x: .690346062, y: .153045446, z: -.690345168, w: .153045654}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CLownhair2
+      position: {x: -7.62939436e-08, y: 7.15255721e-09, z: 7.62939436e-08}
+      rotation: {x: .707107246, y: -4.70784499e-07, z: -.707106292, w: -4.70785125e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown L Mouth
+      position: {x: -.153464586, y: .0392100848, z: .0191110149}
+      rotation: {x: -.614982367, y: .335318565, z: .622691214, w: -.348731756}
+      scale: {x: 1, y: .999999762, z: .999999881}
+      transformModified: 1
+    - name: Clown Mouth
+      position: {x: -.19856064, y: -.0202134065, z: -.000275958271}
+      rotation: {x: -.41887036, y: .560969353, z: .573050439, w: -.425997943}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Clown L Brow
+      position: {x: -.376838833, y: -.152944162, z: .0730789378}
+      rotation: {x: 9.16421413e-07, y: 1.63912773e-06, z: -.617436469, w: .786620736}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Clown L Lid
+      position: {x: -.33104369, y: -.00406315317, z: .0307969786}
+      rotation: {x: -.726605892, y: .664747655, z: .128029034, w: .117316328}
+      scale: {x: .999999702, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Clown R Mouth
+      position: {x: -.153462291, y: .0390995555, z: -.0191482045}
+      rotation: {x: -.345666647, y: .616858244, z: .345176697, w: -.617133379}
+      scale: {x: .999999642, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Clown R Brow
+      position: {x: -.376838833, y: -.152943984, z: -.0739378557}
+      rotation: {x: 9.16421413e-07, y: 1.63912773e-06, z: -.617436469, w: .786620736}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Clown R Lid
+      position: {x: -.33104369, y: -.00406310568, z: -.0307968259}
+      rotation: {x: -.726605833, y: .664748847, z: -.128025144, w: -.117313892}
+      scale: {x: .999999762, y: .99999994, z: .999999702}
+      transformModified: 1
+    - name: Clown L Eye
+      position: {x: -.336138755, y: .058106672, z: .0535031967}
+      rotation: {x: -.787045956, y: .602927148, z: .0794608817, w: .103554152}
+      scale: {x: 1, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: Clown R Eye
+      position: {x: -.336138755, y: .058106713, z: -.0535028428}
+      rotation: {x: -.787046134, y: .602927625, z: -.0794578418, w: -.103552423}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Clown L Clavicle
+      position: {x: .0205283351, y: -.0107726669, z: .0410916731}
+      rotation: {x: .606423795, y: .0532996468, z: -.790306807, w: .0694592148}
+      scale: {x: .999999702, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Clown L UpperArm
+      position: {x: -.174178496, y: 1.19209287e-09, z: 7.62939436e-08}
+      rotation: {x: .00464364607, y: .11029321, z: -.000435970665, w: .993888199}
+      scale: {x: .99999994, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Clown L Forearm
+      position: {x: -.239198372, y: 1.19209287e-09, z: 0}
+      rotation: {x: -3.7252903e-08, y: 1.49011612e-07, z: .000896736979, w: .999999642}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Clown L Hand
+      position: {x: -.239198282, y: 0, z: 0}
+      rotation: {x: .706798315, y: -.00616846466, z: .00617340114, w: -.707361341}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Clown L Finger0
+      position: {x: -.0165175814, y: .00501678465, z: -.043596983}
+      rotation: {x: -.55941242, y: .340738326, z: -.237553149, w: -.717303157}
+      scale: {x: 1.00000036, y: 1.00000024, z: .999999285}
+      transformModified: 1
+    - name: Clown L Finger01
+      position: {x: -.0771912783, y: 1.90734859e-08, z: 0}
+      rotation: {x: 1.04308093e-07, y: -8.94069387e-08, z: -.00023390344, w: 1}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown L Finger02
+      position: {x: -.0372846201, y: 0, z: 0}
+      rotation: {x: 1.49011576e-08, y: 0, z: -.000234082283, w: 1}
+      scale: {x: .999999583, y: .999999583, z: .999999881}
+      transformModified: 1
+    - name: Clown L Finger2
+      position: {x: -.114192635, y: -.0144899748, z: -.0110755274}
+      rotation: {x: -.000398259755, y: -1.15483971e-07, z: -.000233977975, w: .999999881}
+      scale: {x: 1.00000012, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Clown L Finger21
+      position: {x: -.0681152344, y: 7.62939436e-08, z: 0}
+      rotation: {x: 1.66706698e-07, y: 4.58676261e-08, z: -.000234007777, w: 1}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Clown L Finger22
+      position: {x: -.0326554105, y: -7.62939436e-08, z: 5.96046434e-10}
+      rotation: {x: -6.20493594e-08, y: 3.51574236e-08, z: -.000234037609, w: 1}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Clown L Finger3
+      position: {x: -.107990399, y: -.0109655755, z: .0245949123}
+      rotation: {x: -.112062179, y: .00878553279, z: .00566051155, w: .993646324}
+      scale: {x: 1.00000036, y: .999999762, z: .999999762}
+      transformModified: 1
+    - name: Clown L Finger31
+      position: {x: -.0752306357, y: -7.62939436e-08, z: -9.53674295e-09}
+      rotation: {x: 1.6391273e-07, y: 5.96046306e-08, z: -.00023403758, w: 1}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Clown L Finger32
+      position: {x: -.0317739844, y: 0, z: 9.53674295e-09}
+      rotation: {x: -7.07804872e-08, y: 0, z: -.000233948143, w: 1}
+      scale: {x: .999999881, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Clown L Finger4
+      position: {x: -.0987609997, y: -.000590972893, z: .0602809973}
+      rotation: {x: -.164555028, y: .012951727, z: .0158213899, w: .986156046}
+      scale: {x: 1.00000012, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: Clown L Finger41
+      position: {x: -.0692003444, y: 0, z: -9.53674295e-09}
+      rotation: {x: 1.04308107e-07, y: 7.45057918e-08, z: -.000233888568, w: 1}
+      scale: {x: .999999881, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: Clown L Finger42
+      position: {x: -.0293482207, y: 0, z: 9.53674295e-09}
+      rotation: {x: 4.84287632e-08, y: -2.98023153e-08, z: -.000234007777, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Clown L Finger1
+      position: {x: -.105524309, y: -.0134192659, z: -.0489156619}
+      rotation: {x: .129980594, y: -.04952351, z: -.0067357407, w: .990256131}
+      scale: {x: 1.00000012, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: Clown L Finger11
+      position: {x: -.0751908123, y: 0, z: 0}
+      rotation: {x: 7.82310892e-08, y: 4.470348e-08, z: -.000234007806, w: 1}
+      scale: {x: .999999881, y: .99999994, z: 1.00000048}
+      transformModified: 1
+    - name: Clown L Finger12
+      position: {x: -.0308524705, y: 0, z: 1.90734859e-08}
+      rotation: {x: 3.3527602e-08, y: -5.21540464e-08, z: -.000233799132, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown R Clavicle
+      position: {x: .0205283351, y: -.0107724378, z: -.0410916843}
+      rotation: {x: .606423557, y: .053297393, z: .790306866, w: -.069460921}
+      scale: {x: .999999881, y: 1.00000024, z: .999999821}
+      transformModified: 1
+    - name: Clown R UpperArm
+      position: {x: -.174178481, y: 0, z: 0}
+      rotation: {x: -.004643708, y: -.110293433, z: -.000436088943, w: .99388814}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Clown R Forearm
+      position: {x: -.239198297, y: 1.19209287e-09, z: 0}
+      rotation: {x: 0, y: -8.94069601e-08, z: .000896796468, w: .999999642}
+      scale: {x: 1, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: Clown R Hand
+      position: {x: -.239198297, y: 1.19209287e-09, z: -7.62939436e-08}
+      rotation: {x: -.706798255, y: .00616848376, z: .00617336854, w: -.707361341}
+      scale: {x: 1.00000012, y: 1.00000024, z: .999999762}
+      transformModified: 1
+    - name: Clown R Finger0
+      position: {x: -.0165175814, y: .00501678465, z: .043596983}
+      rotation: {x: .559412479, y: -.340738684, z: -.237553492, w: -.717302799}
+      scale: {x: 1.00000012, y: 1.00000024, z: .999999404}
+      transformModified: 1
+    - name: Clown R Finger01
+      position: {x: -.0771912783, y: 1.90734859e-08, z: -3.81469718e-08}
+      rotation: {x: -1.49011594e-08, y: 1.19209275e-07, z: -.000234067411, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Clown R Finger02
+      position: {x: -.0372846201, y: 1.90734859e-08, z: 0}
+      rotation: {x: -8.94069458e-08, y: -2.98023153e-08, z: -.000233888568, w: 1}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Clown R Finger1
+      position: {x: -.105524346, y: -.0134193413, z: .0489156507}
+      rotation: {x: -.129980803, y: .0495235138, z: -.00673569553, w: .990256131}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown R Finger11
+      position: {x: -.0751907676, y: 0, z: 3.81469718e-08}
+      rotation: {x: -1.26659856e-07, y: -3.72528994e-08, z: -.000234028295, w: 1}
+      scale: {x: .999999464, y: .999999702, z: .999999881}
+      transformModified: 1
+    - name: Clown R Finger12
+      position: {x: -.0308524314, y: 0, z: -1.90734859e-08}
+      rotation: {x: 9.68575122e-08, y: 6.70552041e-08, z: -.000233943487, w: 1}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Clown R Finger2
+      position: {x: -.114192598, y: -.0144898985, z: .0110755265}
+      rotation: {x: .000398063014, y: 1.20373414e-07, z: -.000234019913, w: .999999881}
+      scale: {x: .999999762, y: .999999642, z: .999999881}
+      transformModified: 1
+    - name: Clown R Finger21
+      position: {x: -.0681152716, y: 0, z: 5.96046434e-10}
+      rotation: {x: 4.88944245e-08, y: 3.49245894e-08, z: -.000234083665, w: 1}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Clown R Finger22
+      position: {x: -.032655295, y: 0, z: 0}
+      rotation: {x: -1.29919471e-07, y: -6.30970902e-08, z: -.000234023464, w: 1}
+      scale: {x: .999999583, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown R Finger3
+      position: {x: -.107990399, y: -.0109656518, z: -.0245949067}
+      rotation: {x: .112062007, y: -.00878544524, z: .0056604459, w: .993646324}
+      scale: {x: 1.00000024, y: .999999583, z: .999999762}
+      transformModified: 1
+    - name: Clown R Finger31
+      position: {x: -.0752306357, y: 0, z: 9.53674295e-09}
+      rotation: {x: -7.45057971e-09, y: 4.470348e-08, z: -.000233998493, w: 1}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Clown R Finger32
+      position: {x: -.0317740254, y: 0, z: 0}
+      rotation: {x: 9.68575335e-08, y: -7.45057989e-08, z: -.000233958912, w: 1}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown R Finger4
+      position: {x: -.0987609625, y: -.000590972893, z: -.0602809936}
+      rotation: {x: .164554983, y: -.0129517494, z: .0158207938, w: .986155987}
+      scale: {x: 1.00000036, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Clown R Finger41
+      position: {x: -.0692002699, y: 0, z: -9.53674295e-09}
+      rotation: {x: -1.11758666e-07, y: 3.72528888e-08, z: -.000233991916, w: 1}
+      scale: {x: .999999702, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Clown R Finger42
+      position: {x: -.0293482579, y: 0, z: -9.53674295e-09}
+      rotation: {x: 1.41560974e-07, y: -5.21540464e-08, z: -.000233962113, w: 1}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: CLown Neck1
+      position: {x: -.266043991, y: .0281123556, z: 7.62939436e-08}
+      rotation: {x: -.454735458, y: .541493833, z: .454734832, w: .541494548}
+      scale: {x: 1.33967459, y: 1.33967495, z: 1.33967495}
+      transformModified: 1
+    - name: CLown Neck2
+      position: {x: -.228101492, y: .0389188044, z: 7.62939436e-08}
+      rotation: {x: .0613481626, y: .704440057, z: -.0613480806, w: .704441011}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: clown tie1
+      position: {x: -.16345939, y: .195222169, z: 3.05175774e-07}
+      rotation: {x: .707107246, y: .000281529152, z: -.707106292, w: .00028152953}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Clown L Thigh
+      position: {x: 1.90734852e-07, y: 2.09808348e-07, z: .135734782}
+      rotation: {x: -.000463068427, y: .991444826, z: .130525365, w: 5.86807655e-05}
+      scale: {x: 1.00000036, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Clown L Calf
+      position: {x: -.198156029, y: -1.19209287e-09, z: -9.53674295e-09}
+      rotation: {x: 1.49011612e-08, y: -2.98023224e-08, z: .000913351774, w: .999999642}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Clown L Foot
+      position: {x: -.198156103, y: 1.19209287e-09, z: 9.53674295e-09}
+      rotation: {x: -.0569195673, y: 2.25305539e-05, z: -.000446215214, w: .998378754}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Clown L Toe0
+      position: {x: -.0890061185, y: .203974858, z: -1.90734859e-08}
+      rotation: {x: 0, y: 1.33463205e-08, z: -.707106769, w: .707106948}
+      scale: {x: .999999762, y: .999999642, z: .999999881}
+      transformModified: 1
+    - name: Clown R Thigh
+      position: {x: -1.90734852e-07, y: -1.66893003e-07, z: -.135734797}
+      rotation: {x: -.000462830008, y: .991444707, z: -.130526647, w: -5.73545622e-05}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: Clown R Calf
+      position: {x: -.198156044, y: -1.19209287e-09, z: 9.53674295e-09}
+      rotation: {x: 4.470348e-08, y: 2.98023188e-08, z: .000913351658, w: .999999583}
+      scale: {x: 1, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: Clown R Foot
+      position: {x: -.198156074, y: 0, z: 0}
+      rotation: {x: .0569194108, y: -2.27242708e-05, z: -.00044631958, w: .998378754}
+      scale: {x: .999999762, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Clown R Toe0
+      position: {x: -.0890061185, y: .203974858, z: 1.90734859e-08}
+      rotation: {x: 2.98023188e-08, y: 1.3566536e-07, z: -.707106709, w: .707106888}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: cd91bfd5914b9b74fba7b1c7c9603009,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

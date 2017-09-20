@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Payaso27" size="60.000000 59.772728" />
+    <ImageTarget name="Payaso30" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso29" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso28" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso26" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso25" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso24" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso23" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso22" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso21" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso20" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso19" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso18" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso17" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso16" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso15" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso14" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso13" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso12" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso11" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso10" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso09" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso08" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso07" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso06" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso05" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso04" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso03" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso02" size="60.000000 60.000000" />
+    <ImageTarget name="Payaso01" size="60.000000 60.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 24624dfda85f0464cbecf44d1b8db3c6
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Back Digit_L 01 jnt
+    100002: Back Digit_L 02 jnt
+    100004: Back Digit_L Tip jnt
+    100006: Back Digit_R 01 jnt
+    100008: Back Digit_R 02 jnt
+    100010: Back Digit_R Tip jnt
+    100012: Ctrl_Back Digit_L 01
+    100014: Ctrl_Back Digit_L 02
+    100016: Ctrl_Back Digit_R 01
+    100018: Ctrl_Back Digit_R 02
+    100020: 'Ctrl_Eye_L '
+    100022: Ctrl_Eye_R
+    100024: Ctrl_Front Digit_L 01
+    100026: Ctrl_Front Digit_L 02
+    100028: Ctrl_Front Digit_L 03
+    100030: Ctrl_Front Digit_L 04
+    100032: Ctrl_Front Digit_R 01
+    100034: Ctrl_Front Digit_R 02
+    100036: Ctrl_Front Digit_R 03
+    100038: Ctrl_Front Digit_R 04
+    100040: Ctrl_global
+    100042: Ctrl_Head
+    100044: Ctrl_Head001
+    100046: Ctrl_Head002
+    100048: Ctrl_Head003
+    100050: Ctrl_Inner Digit_R 003
+    100052: Ctrl_Inner Digit_R 004
+    100054: Ctrl_Inner Digit_R 01
+    100056: Ctrl_Inner Digit_R 02
+    100058: Ctrl_Left Wing 01
+    100060: Ctrl_Left Wing 02
+    100062: Ctrl_Left Wing 03
+    100064: Ctrl_Left Wing 04
+    100066: Ctrl_Middle Digit_L 01
+    100068: Ctrl_Middle Digit_L 02
+    100070: Ctrl_Middle Digit_L 03
+    100072: Ctrl_Middle Digit_R 01
+    100074: Ctrl_Middle Digit_R 02
+    100076: Ctrl_Middle Digit_R 03
+    100078: Ctrl_Right Wing 01
+    100080: Ctrl_Right Wing 02
+    100082: Ctrl_Right Wing 03
+    100084: Ctrl_Right Wing 04
+    100086: Ctrl_Spine01
+    100088: Ctrl_Spine02
+    100090: Ctrl_Spine03
+    100092: Ctrl_Spine04
+    100094: Ctrl_Tail
+    100096: Eye_L jnt
+    100098: Eye_L Tip jnt
+    100100: Eye_R jnt
+    100102: Eye_R Tip jnt
+    100104: Feather_L jnt
+    100106: Feather_L Tip jnt
+    100108: Feather_R jnt
+    100110: Feather_R Tip jnt
+    100112: Front Digit_L 01 jnt
+    100114: Front Digit_L 02 jnt
+    100116: Front Digit_L 03 jnt
+    100118: Front Digit_L 04 jnt
+    100120: Front Digit_L Tip jnt
+    100122: Front Digit_R 01 jnt
+    100124: Front Digit_R 02 jnt
+    100126: Front Digit_R 03 jnt
+    100128: Front Digit_R 04 jnt
+    100130: Front Digit_R Tip jnt
+    100132: Head jnt
+    100134: Head Tip jnt
+    100136: IK Chain001
+    100138: IK Chain002
+    100140: IK Chain003
+    100142: IK Chain004
+    100144: Inner Digit_L 01 jnt
+    100146: Inner Digit_L 02 jnt
+    100148: Inner Digit_L Tip jnt
+    100150: Inner Digit_R 01 jnt
+    100152: Inner Digit_R 02 jnt
+    100154: Inner Digit_R Tip jnt
+    100156: Inner Feather_L jnt
+    100158: Inner Feather_L Tip jnt
+    100160: Inner Feather_R jnt
+    100162: Inner Feather_R Tip jnt
+    100164: Left Feet Ctrl
+    100166: Left Leg 01 jnt
+    100168: Left Leg 02 jnt
+    100170: Left Leg 03 jnt
+    100172: Left Leg Ctrl
+    100174: Left Leg Tip jnt
+    100176: Left Wing 01 jnt
+    100178: Left Wing 02 jnt
+    100180: Left Wing 03 jnt
+    100182: Left Wing 04 jnt
+    100184: Left Wing Tip jnt
+    100186: Lower Beak 01 jnt
+    100188: Lower Beak 02 jnt
+    100190: Lower Beak Tip jnt
+    100192: Middle Digit_L 01 jnt
+    100194: Middle Digit_L 02 jnt
+    100196: Middle Digit_L 03 jnt
+    100198: Middle Digit_L Tip jnt
+    100200: Middle Digit_R 01 jnt
+    100202: Middle Digit_R 02 jnt
+    100204: Middle Digit_R 03 jnt
+    100206: Middle Digit_R Tip jnt
+    100208: //RootNode
+    100210: Parrot
+    100212: Right Feet Ctrl
+    100214: Right Leg 01 jnt
+    100216: Right Leg 02 jnt
+    100218: Right Leg 03 jnt
+    100220: Right Leg Ctrl
+    100222: Right Leg Tip jnt
+    100224: Right Wing 01 jnt
+    100226: Right Wing 02 jnt
+    100228: Right Wing 03 jnt
+    100230: Right Wing 04 jnt
+    100232: Right Wing Tip jnt
+    100234: Root Point Helper
+    100236: Shape001
+    100238: Spine 01 jnt
+    100240: Spine 02 jnt
+    100242: Spine 03 jnt
+    100244: Spine 04 jnt
+    100246: Tail Tip jnt
+    100248: Taill jnt
+    100250: Upper Beak jnt
+    100252: Upper Beak Tip jnt
+    400000: Back Digit_L 01 jnt
+    400002: Back Digit_L 02 jnt
+    400004: Back Digit_L Tip jnt
+    400006: Back Digit_R 01 jnt
+    400008: Back Digit_R 02 jnt
+    400010: Back Digit_R Tip jnt
+    400012: Ctrl_Back Digit_L 01
+    400014: Ctrl_Back Digit_L 02
+    400016: Ctrl_Back Digit_R 01
+    400018: Ctrl_Back Digit_R 02
+    400020: 'Ctrl_Eye_L '
+    400022: Ctrl_Eye_R
+    400024: Ctrl_Front Digit_L 01
+    400026: Ctrl_Front Digit_L 02
+    400028: Ctrl_Front Digit_L 03
+    400030: Ctrl_Front Digit_L 04
+    400032: Ctrl_Front Digit_R 01
+    400034: Ctrl_Front Digit_R 02
+    400036: Ctrl_Front Digit_R 03
+    400038: Ctrl_Front Digit_R 04
+    400040: Ctrl_global
+    400042: Ctrl_Head
+    400044: Ctrl_Head001
+    400046: Ctrl_Head002
+    400048: Ctrl_Head003
+    400050: Ctrl_Inner Digit_R 003
+    400052: Ctrl_Inner Digit_R 004
+    400054: Ctrl_Inner Digit_R 01
+    400056: Ctrl_Inner Digit_R 02
+    400058: Ctrl_Left Wing 01
+    400060: Ctrl_Left Wing 02
+    400062: Ctrl_Left Wing 03
+    400064: Ctrl_Left Wing 04
+    400066: Ctrl_Middle Digit_L 01
+    400068: Ctrl_Middle Digit_L 02
+    400070: Ctrl_Middle Digit_L 03
+    400072: Ctrl_Middle Digit_R 01
+    400074: Ctrl_Middle Digit_R 02
+    400076: Ctrl_Middle Digit_R 03
+    400078: Ctrl_Right Wing 01
+    400080: Ctrl_Right Wing 02
+    400082: Ctrl_Right Wing 03
+    400084: Ctrl_Right Wing 04
+    400086: Ctrl_Spine01
+    400088: Ctrl_Spine02
+    400090: Ctrl_Spine03
+    400092: Ctrl_Spine04
+    400094: Ctrl_Tail
+    400096: Eye_L jnt
+    400098: Eye_L Tip jnt
+    400100: Eye_R jnt
+    400102: Eye_R Tip jnt
+    400104: Feather_L jnt
+    400106: Feather_L Tip jnt
+    400108: Feather_R jnt
+    400110: Feather_R Tip jnt
+    400112: Front Digit_L 01 jnt
+    400114: Front Digit_L 02 jnt
+    400116: Front Digit_L 03 jnt
+    400118: Front Digit_L 04 jnt
+    400120: Front Digit_L Tip jnt
+    400122: Front Digit_R 01 jnt
+    400124: Front Digit_R 02 jnt
+    400126: Front Digit_R 03 jnt
+    400128: Front Digit_R 04 jnt
+    400130: Front Digit_R Tip jnt
+    400132: Head jnt
+    400134: Head Tip jnt
+    400136: IK Chain001
+    400138: IK Chain002
+    400140: IK Chain003
+    400142: IK Chain004
+    400144: Inner Digit_L 01 jnt
+    400146: Inner Digit_L 02 jnt
+    400148: Inner Digit_L Tip jnt
+    400150: Inner Digit_R 01 jnt
+    400152: Inner Digit_R 02 jnt
+    400154: Inner Digit_R Tip jnt
+    400156: Inner Feather_L jnt
+    400158: Inner Feather_L Tip jnt
+    400160: Inner Feather_R jnt
+    400162: Inner Feather_R Tip jnt
+    400164: Left Feet Ctrl
+    400166: Left Leg 01 jnt
+    400168: Left Leg 02 jnt
+    400170: Left Leg 03 jnt
+    400172: Left Leg Ctrl
+    400174: Left Leg Tip jnt
+    400176: Left Wing 01 jnt
+    400178: Left Wing 02 jnt
+    400180: Left Wing 03 jnt
+    400182: Left Wing 04 jnt
+    400184: Left Wing Tip jnt
+    400186: Lower Beak 01 jnt
+    400188: Lower Beak 02 jnt
+    400190: Lower Beak Tip jnt
+    400192: Middle Digit_L 01 jnt
+    400194: Middle Digit_L 02 jnt
+    400196: Middle Digit_L 03 jnt
+    400198: Middle Digit_L Tip jnt
+    400200: Middle Digit_R 01 jnt
+    400202: Middle Digit_R 02 jnt
+    400204: Middle Digit_R 03 jnt
+    400206: Middle Digit_R Tip jnt
+    400208: //RootNode
+    400210: Parrot
+    400212: Right Feet Ctrl
+    400214: Right Leg 01 jnt
+    400216: Right Leg 02 jnt
+    400218: Right Leg 03 jnt
+    400220: Right Leg Ctrl
+    400222: Right Leg Tip jnt
+    400224: Right Wing 01 jnt
+    400226: Right Wing 02 jnt
+    400228: Right Wing 03 jnt
+    400230: Right Wing 04 jnt
+    400232: Right Wing Tip jnt
+    400234: Root Point Helper
+    400236: Shape001
+    400238: Spine 01 jnt
+    400240: Spine 02 jnt
+    400242: Spine 03 jnt
+    400244: Spine 04 jnt
+    400246: Tail Tip jnt
+    400248: Taill jnt
+    400250: Upper Beak jnt
+    400252: Upper Beak Tip jnt
+    4300000: Parrot
+    7400000: parrot_takeoff
+    7400002: parrot_flying
+    7400004: parrot_landing
+    7400006: parrot_walking
+    7400008: parrot_stealthily
+    7400010: parrot_running
+    7400012: parrot_jumping
+    7400014: parrot_idle
+    7400016: parrot_eating
+    7400018: parrot_die
+    7400020: parrot_glide
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Parrot
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: parrot_takeoff
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: parrot_flying
+      takeName: Take 001
+      firstFrame: 32
+      lastFrame: 44
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: parrot_landing
+      takeName: Take 001
+      firstFrame: 44
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: parrot_walking
+      takeName: Take 001
+      firstFrame: 65
+      lastFrame: 91
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: parrot_stealthily
+      takeName: Take 001
+      firstFrame: 94
+      lastFrame: 164
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: parrot_running
+      takeName: Take 001
+      firstFrame: 167
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: parrot_jumping
+      takeName: Take 001
+      firstFrame: 181
+      lastFrame: 217
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: parrot_idle
+      takeName: Take 001
+      firstFrame: 218
+      lastFrame: 264
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: parrot_eating
+      takeName: Take 001
+      firstFrame: 265
+      lastFrame: 312
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: parrot_die
+      takeName: Take 001
+      firstFrame: 312
+      lastFrame: 343
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: parrot_glide
+      takeName: Take 001
+      firstFrame: 346
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
